@@ -3,6 +3,7 @@ Hello People!
 Overview
 This project is a simple implementation of an infrared (IR) thermometer using Arduino and the MLX90614 sensor. 
 The MLX90614 is a non-contact infrared thermometer sensor that can measure temperature without physically touching the object being measured.
+It offers a cost-effective solution for non-contact temperature measurement in various applications, such as industrial, medical, or home automation.
 
 
 Components:
